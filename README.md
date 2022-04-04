@@ -11,8 +11,8 @@
 - *Paste this into Cloud Shell :
 
 -  ```console  
- 
-    curl ...
+
+    bash <(curl -sL https://raw.githubusercontent.com/BMX5FRyAcQANmC703/azure-sandbox/main/setup.sh)
     
     ```
 - *Enjoy!!*
